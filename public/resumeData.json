@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name": "Jen Perez",
+    "occupation": "Software engineer",
+    "description": "I eat, sleep, and breathe React",
+    "image": "jen.jpg",
+    "bio": "Hi there! My name is Jen Perez. I'm a brand new full stack Java developer based in Atlanta, GA. I've been a creator as far back as I can remember. After bouts of writing and drawing comic books with my friends, I listened to my parents and got a \"real\" degree in Political Science from the University of Georgia. I opened and operated a retail store. I tried working as a banker. I taught fitness classes. But, you can take the girl out of the art, but you can't take the art out of the girl. I've since written a screenplay for a feature film and for a series. (Ask about my IMDb creds later!) I was teaching high school literature up until the COVID pandemic decimated our little private school, and I joined the millions of unemployed Americans. So, that brings us to today. I discovered web development almost by accident. I was trying to edit and maintain my husband's company website, and the little bit of HTML that I had learned back in the MySpace days wasn't cutting it. (Don't lie...you know you had those glitter .gifs too!) I started teaching myself HTML and CSS, which led me to Generation USA. I applied, and was chosen for the 2021-2022 Generation USA Jr. Full Stack Developer program through Atlanta Technical College. Now, I currently have 560+ training hours and experience developing and programming full stack Java applications. I'm currently working as a junior software engineer, and I hope to be a software architect in the future.",
+    "contactmessage": "Get in touch with me to be a part of the fam!",
+    "email": "jen@jenperez.dev",
+    "phone": "+1 6503089960",
+    "address": {
+      "city": "Atlanta",
+      "state": "GA"
+    },
+    "website": "https://jenperez.dev",
+    "resumedownload": "https://docs.google.com/document/d/1vI52YB3FM0ufVd9BaRBh9spCSPoyghQtd7rcLZbX4EI/edit?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jenniferramerperez",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jenperezzz/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jenperez613",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Georgia - Athens, GA",
+        "degree": "Bachelor's Degree, Political Science",
+        "graduated": "2003",
+        "description": "Delta Phi Epsilon"
+      }
+    ],
+    "work": [
+      {
+        "company": "McKinsey & Company",
+        "title": "Software Engineer",
+        "years": "March 2022 - Present",
+        "description": "apprentice"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs / NextJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Krypt (React JS)",
+        "category": "",
+        "image": "krypt.png",
+        "url": "https://sendkrypt.com"
+      },
+      {
+        "title": "Hoo Bank (React JS)",
+        "category": "",
+        "image": "hoobank.png",
+        "url": "https://hoobankui.netlify.app/"
+      },
+      {
+        "title": "OwlVox (React JS)",
+        "category": "",
+        "image": "owlvox.png",
+        "url": "https://owlvox-ecommerce.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Jen is absolutely excellent, her depth of knowledge & her mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Jen has been AWESOME, she makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
